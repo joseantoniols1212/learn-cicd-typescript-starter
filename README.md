@@ -1,4 +1,4 @@
-![Tests Coverage](https://github.com/joseantoniols1212/learn-cicd-typescript-starte/actions/workflows/ci/badge.svg)
+![Tests Coverage](https://github.com/joseantoniols1212/learn-cicd-typescript-starter/actions/workflows/ci/badge.svg)
 
 # learn-cicd-typescript-starter (Notely)
 
